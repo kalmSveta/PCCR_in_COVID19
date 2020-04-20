@@ -1,0 +1,5 @@
+hub Pairs of Conserved Complementary Regions in SARS-CoV-2
+shortLabel PCCR_in_SARS-CoV-2
+longLabel Pairs of Conserved Complementary Regions in SARS-CoV-2
+genomesFile genomes.txt 
+email svetlana.kalmykova@skoltech.ru
