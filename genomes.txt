@@ -1,0 +1,2 @@
+genome SARS-CoV-2
+trackDb SARS-CoV-2/trackDB.txt
