@@ -1,2 +1,2 @@
-genome SARS-CoV-2
-trackDb SARS-CoV-2/trackDB.txt
+genome NC_045512.2
+trackDb NC_045512.2/trackDB.txt
