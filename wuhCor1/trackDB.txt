@@ -2,7 +2,7 @@ track PCCR_dG15
 type bigBed 12 +
 exonNumbers on
 itemRgb on
-visibility 3
+visibility 0
 bigDataUrl refernce_UCSC_panhandles_preprocessed_energy_cutoff_-15.bb
 shortLabel PCCR_dG15
 longLabel PCCR dG <= -15 kcal/mol
@@ -11,7 +11,7 @@ track PCCR_dG20
 type bigBed 12 +
 exonNumbers on
 itemRgb on
-visibility 3
+visibility 0
 bigDataUrl refernce_UCSC_panhandles_preprocessed_energy_cutoff_-20.bb
 shortLabel PCCR_dG20
 longLabel PCCR dG <= -20 kcal/mol
@@ -20,7 +20,7 @@ track PCCR_dG25
 type bigBed 12 +
 exonNumbers on
 itemRgb on
-visibility 3
+visibility 0
 bigDataUrl refernce_UCSC_panhandles_preprocessed_energy_cutoff_-25.bb
 shortLabel PCCR_dG25
 longLabel PCCR dG <= -25 kcal/mol
@@ -29,7 +29,7 @@ track PCCR_dG30
 type bigBed 12 +
 exonNumbers on
 itemRgb on
-visibility 3
+visibility 0
 bigDataUrl refernce_UCSC_panhandles_preprocessed_energy_cutoff_-30.bb
 shortLabel PCCR_dG30
 longLabel PCCR dG <= -30 kcal/mol
