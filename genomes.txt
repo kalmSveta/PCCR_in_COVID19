@@ -1,5 +1,2 @@
 genome wuhCor1
 trackDb wuhCor1/trackDB.txt
-
-genome NC_045512v2
-trackDb NC_045512v2/trackDB.txt
