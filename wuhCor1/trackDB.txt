@@ -42,3 +42,12 @@ visibility 3
 bigDataUrl refernce_UCSC_panhandles_1_perc_non_unique_preprocessed_energy_cutoff_-15.bb
 shortLabel PCCR_dG15_1%
 longLabel PCCR dG <= -15 kcal/mol 1% varians
+
+track PCCR_conserved_dG15
+type bigBed 12 +
+exonNumbers on
+itemRgb on
+visibility 0
+bigDataUrl refernce_UCSC_panhandles_preprocessed_conserved_energy_cutoff_-15.bb
+shortLabel PCCR_conserved_dG15
+longLabel PCCR CONSERVED dG <= -15 kcal/mol
